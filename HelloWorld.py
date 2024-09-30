@@ -1,3 +1,4 @@
 #My moment of change to python 
-#starting my journey
+#Starting my journey
+#This is also my first Python code uploaded on github
 print("Hello World!")
